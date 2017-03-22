@@ -1,0 +1,1 @@
+﻿<img  style="margin-top:130px;width:100%" src="<?php echo $url_dir; ?>uploads/baner.jpg"/>

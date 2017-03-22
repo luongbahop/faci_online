@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /feed/
+Disallow: /admin/
+Disallow: /controller/
+Disallow: /model/
+Disallow: /views/
+Disallow: /configs/
+Sitemap: http://toeicbuilding.com/sitemap.xml
+Feeds:http://toeicbuilding.com/feed/
+
+
